@@ -1,0 +1,29 @@
+    /* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+
+    .bg {
+      background-color: #aaa;
+    }
+    
+    footer {
+      background-color: #aaa;
+      padding: 25px;
+    }
+
+
+    f2 {
+    text-align: left;
+    }
+
+    f3 {
+    text-align: right;
+    }
+
+    .imi{
+            width: 250px;
+            margin: auto;
+                        
+    }
